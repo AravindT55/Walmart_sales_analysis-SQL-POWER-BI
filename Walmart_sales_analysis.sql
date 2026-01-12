@@ -24,14 +24,6 @@ CREATE TABLE sales(
     day_name VARCHAR(10),
     month_name VARCHAR(10)
 );
-select * from sales;
-
--- =====================================================
--- Database
--- =====================================================
-CREATE DATABASE IF NOT EXISTS walmartSales;
-USE walmartSales;
-
 -- =====================================================
 -- Data Check
 -- =====================================================
